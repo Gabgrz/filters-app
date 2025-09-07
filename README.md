@@ -1,6 +1,6 @@
 # Filters App
 
-A simple web-based image filter application built with HTML5 Canvas and JavaScript.
+A simple web-based image filter application built with HTML5 Canvas and JavaScript as part of Duke University's front end development course.
 
 ## Features
 - Upload images and apply filters
